@@ -5,8 +5,8 @@
 **PIXEL ANIMATION LIBRARY**
 
 A curated library of 20x20 pixel creature animations.
-Browse live previews, copy self-contained code, and download MP4 videos.
-No frameworks. No dependencies. Pure HTML.
+Browse live. Copy the code. Download as MP4. Drop it anywhere.
+Every preset is self-contained HTML. No frameworks.
 
 ---
 
