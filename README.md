@@ -18,8 +18,6 @@ Every preset is self-contained HTML. No frameworks.
 
 </div>
 
-**DEMO VIDEO**
-https://github.com/user-attachments/assets/bcc81bec-6c9d-4bab-855e-86c9febccb92
 ---
 
 ## What is ClaudePix
